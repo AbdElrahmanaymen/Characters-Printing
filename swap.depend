@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1500809310 source:e:\codeblocks projs\swap\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1500811833 source:e:\codeblocks projs\swap\untitled2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1500811834 source:e:\programming\codeblocks projs\swap\untitled2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
